@@ -1,3 +1,4 @@
 Nice place to vist
 
+<<<<<<< Updated upstream
 Hello Earth
